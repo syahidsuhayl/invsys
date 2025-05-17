@@ -1,6 +1,6 @@
 <%@ page import="java.sql.*" %>
 <%
-    String url = "jdbc:mysql://localhost/invsys";
+    String url = "jdbc:mysql://118.101.137.27/invsys";
     String usernameMySQL = "root";
     String passwordMySQL = "";
     Connection connectionDB = null;
